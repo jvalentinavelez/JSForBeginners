@@ -5,5 +5,7 @@ Teaches JavaScript basics, such as: Variables, Data Types, Strings & String Meth
 It also contains a Form Script, that allows to submit Name and Email, using mainFormlog.js
 
 Resources: 
+
 Traversy Media –  https://www.youtube.com/watch?v=hdI2bqOjy3c
+
 JavaScript Cheat Sheet – https://websitesetup.org/javascript-cheat-sheet/
